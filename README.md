@@ -1,1 +1,17 @@
 # -Que-es-un-servidor-
+- Cuando creamos una pagina wed la información  se almacena en los servidores.
+- Un servidor es una ordenador  que se encarga de almecenar archivos y distribuirlos en internet para hacer visble a los usuarios.
+- En el  mundo de la informatica se le llama servidor  al  programa que ofrece una serie de servicios.
+- A esto se le suele acceder a una serie de programas  especiales que se determinan (Clientes) el caso que por extención  el  servidor al ordenador donde funcionan estos programas .
+- Tecnicamente  un  servidor que entra en proceso la información o sirve para  otro proceso.
+- Por lo tanto es probable que un ordenador cumpla simultaneamente los procesos de " Odenador y Cliente" al mismo tiempo.
+- En resumen un servidor es un equipo que tiene instalado un software que sirve para servicio utiles o información que nesecitamos  pero cuales son esos recursos.
+- Entre los más comunes el "almacenamiento de archivos" "Almacenamiento wed"  " Almacenamiento de Email".
+- Los principales servidores que se utlizan son " FTP, IRC, CORREO, BASE DE DATOS, WED"
+- Los primero son los más populares pero son los más antiguos y sirven para mover dos o más archivos entre distintos tipos de ordenadores.
+- Estos porpocionan seguridad y organización de los archivos asi como controlan la transparencia.
+- Los servidores "IRC" o "Internet Relay Chat" son una opción para los usuarios que buscan discusión en tiempo real, el internet RELAY CHAT consiste en varios servidores por separadas que permiten que los usuarios conecten uno al otro en via de una red "IRC".
+- Por su parte los servidores de correo mueve los emails atraves de redes corporativas y atraves de internet.
+- Para acceder a nuestros email, debemos necesitar un cliente por ejemplo EMAIL que son servidores de clientes  y promueven una interfaz para acceder asi mismo.
+- Tambien tenemos lops servidores de " BASE DE DATOS"  a la que podemos llamar la elite de los servidores estos surgen de la nesecidad de las empresas que tienen que manejar grandes y complejos volumenes de datos ademas sirven para compartir información con un cojunto de clientes.
+- Finalmente tenemos los servidores wed que almacenan los archivos "HTML"  de una pagina y que porpocionan los clientes que lo solicitan .
